@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently working on Kodet Market
 - 🌱 I’m currently learning TypeScript
