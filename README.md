@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=syntast1c&color=lightgrey)
 # wsg 👋
 
 - 🔭 I’m currently working on syntastic.xyz
