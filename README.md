@@ -1,5 +1,5 @@
-![](https://komarev.com/ghpvc/?username=syntast1c&color=lightgrey)
-<h1 align="center">Hello, it's Syntastic! 👋</h1>
+
+<h1 align="center">![](https://komarev.com/ghpvc/?username=syntast1c&color=lightgrey) Hello, it's Syntastic! 👋</h1>
 
 - 🔭 I’m currently working on syntastic.xyz
 - 🌱 I’m currently learning nothing
