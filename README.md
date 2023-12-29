@@ -2,7 +2,7 @@
 <h1 align="center">Hello, it's Syntastic! 👋</h1>
 
 ![](https://komarev.com/ghpvc/?username=syntast1c&color=lightgrey)
-- 🔭 I’m currently working on syntastic.xyz
+- 🔭 I’m currently working on discord tools.
 - 🌱 I’m currently learning nothing
 - 💬 Ask me about anything
 - 📫 Discord: Syntastic.
